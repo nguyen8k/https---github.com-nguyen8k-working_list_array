@@ -20,10 +20,10 @@ city_name.append(" Houston")  # add Houston after San Franciso
 print (city_name)
 
 
-combination_items = [states_of_america,city_name]
+combination_items = [states_of_america,city_name] # combine 2 arrays States_of_america and City_nam into 1 array 2 dimentions
 
-#print(combination_items)
-#print (combination_items[1][1])
+#print(combination_items)   # print 2 arrays into 1
+#print (combination_items[1][1])   # print Austin
 
 
 
